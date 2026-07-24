@@ -1,0 +1,28 @@
+Ejercicio 01 - Java
+PROGRAMACIÓN II: 02INPGR22026254017 Anual Semipresencial
+
+Evaluación automática con IA
+Instrucciones
+Ejercicio 01: Distribución de estudiantes en equipos
+Desarrolle un programa en Java que solicite al usuario la cantidad total de estudiantes de una clase y la cantidad de estudiantes que debe tener cada equipo.
+
+El programa deberá:
+
+Leer y almacenar ambos valores en variables enteras.
+
+Mostrar en pantalla los valores ingresados.
+
+Calcular cuántos equipos completos pueden formarse.
+
+Calcular cuántos estudiantes quedan sin integrar un equipo completo.
+
+Mostrar los resultados con mensajes claros.
+
+Ejemplo de ejecución
+Ingrese la cantidad total de estudiantes: 27
+Ingrese la cantidad de estudiantes por equipo: 4
+
+Cantidad total de estudiantes: 27
+Estudiantes por equipo: 4
+Se pueden formar 6 equipos completos.
+Quedan 3 estudiantes sin integrar un equipo completo.
