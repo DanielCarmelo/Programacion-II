@@ -1,0 +1,23 @@
+Desarrolle un programa en Java que genere una secuencia de números enteros al azar comprendidos entre 0 y 10.
+
+Cada vez que se genere un número, el programa deberá mostrarlo en pantalla e indicar mediante un mensaje si el valor es par o impar.
+
+Cuando el número generado sea impar, deberá sumarse a una variable acumuladora. El proceso continuará mientras la suma de los números impares sea menor o igual que 25.
+
+El programa deberá detener la generación de números inmediatamente después de que la suma de los valores impares supere 25. Al finalizar, deberá mostrar en pantalla la suma total calculada.
+
+Ejemplo de ejecución
+
+Número generado: 4 - Es par
+Número generado: 7 - Es impar
+Número generado: 2 - Es par
+Número generado: 9 - Es impar
+Número generado: 5 - Es impar
+Número generado: 6 - Es par
+Número generado: 3 - Es impar
+Número generado: 8 - Es par
+Número generado: 7 - Es impar
+
+La suma de los números impares es: 31
+La suma superó el valor 25. El proceso ha finalizado.
+
