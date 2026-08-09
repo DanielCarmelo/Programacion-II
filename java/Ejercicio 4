@@ -1,0 +1,25 @@
+Ejercicio 04: Día de la semana
+
+Desarrolle un programa en Java que genere al azar un número entero comprendido entre 1 y 7.
+
+El programa deberá desplegar el número generado y, mediante una estructura switch, mostrar el día de la semana correspondiente según la siguiente relación:
+
+1: lunes.
+
+2: martes.
+
+3: miércoles.
+
+4: jueves.
+
+5: viernes.
+
+6: sábado.
+
+7: domingo.
+
+Ejemplo de ejecución
+
+Número generado: 5
+Día correspondiente: viernes
+
