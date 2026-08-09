@@ -1,0 +1,14 @@
+Ejercicio 05: Cantidad de vocales de un texto
+
+Desarrolle un programa en Java que almacene el texto PROGRAMACION JAVA en una variable de tipo String.
+
+El programa deberá recorrer todos los caracteres del texto mediante una estructura repetitiva. Cada vez que encuentre una vocal, deberá aumentar una variable contadora.
+
+Al finalizar, deberá desplegar el texto analizado, su cantidad total de caracteres y la cantidad de vocales encontradas.
+
+Ejemplo de ejecución
+
+Texto analizado: PROGRAMACION JAVA
+Cantidad de caracteres: 17
+Cantidad de vocales: 7
+
